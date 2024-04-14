@@ -18,36 +18,50 @@ Este código muestra cómo utilizar la biblioteca langchain para construir un pi
 3. tiktoken: Rápido algoritmo BPE desarrollado por OpenAI
 4. langchainhub:  Módulo que proporciona acceso a diferentes modelos y recursos para el procesamiento de lenguaje natural (NLP).
 codigo: rag.py
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/8ddab06c-5850-49e9-80d0-aec51c36f086)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/81107a65-3849-4222-a6e5-fbb285839a12)
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/6f86e7d5-622c-42af-a256-5df7cc4adefe)
+
+
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/1af8624a-ca48-43e1-999e-c69da3618f4c)
+
 
 # TERCER PROGRAMA
 Este código carga documentos de texto, divide el texto en fragmentos, genera embeddings para estos fragmentos, indexa los embeddings en Pinecone y luego realiza búsquedas de similitud de documentos en el índice creado.
 Para el archivo conocimientos.txt que usa el codigo la información esta relacionada a ataques DDoS. La biblioteca instalada fue:
 1. langchain-pinecone: extensión específica entre la biblioteca langchain y el servicio Pinecone para la indexación y búsqueda eficiente de vectores de embedding generados a partir de texto
 codigo pineconRag.py
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/521b5b31-751b-4eee-81fe-938fec21f3d8)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/af1ec5d4-5597-4446-910d-acc8290bd981)
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/225c539e-dc70-421c-b010-16c98d4878ab)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/eb2a754e-2b4a-49fa-b47a-624de4447ea5)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/84a47a31-17ce-42d2-91a4-317b74618062)
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/ad70ee2e-bccb-4882-bea2-79f450e6e141)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/b6a0a567-5856-47bf-8152-fd7919203d9c)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/42f79e52-0f9c-4d20-9ca5-337afc59906f)
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/921e83cf-8bd2-4148-bd3e-aa784292664c)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/7a98e90b-f8c6-405c-8f4d-d41e37869f83)
+
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/01101d3e-eaff-49a6-9cec-90388b6dc993)
+
+
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/65ec8162-913a-4dda-b256-150d69aa977b)
+
+
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/39d1f0bc-36e7-450e-8813-fc1744cc3907)
+
+
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/00291514-d96c-447f-b461-c8dc42fafe09)
+
 
 
 # CUARTO PROGRAMA
 el código implementa un sistema de pregunta-respuesta para el código fuente utilizando la técnica de Retriever-Augmented Generation (RAG), que combina recuperación de información y generación de texto para proporcionar respuestas más precisas y relevantes. Este script muestra cómo utilizar las bibliotecas de procesamiento de texto y aprendizaje automático para realizar la carga de documentos, la generación de embeddings, la indexación y búsqueda de información, así como la participación en conversaciones basadas en texto.
 codigo: codeRag.py
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/a787477d-b6e1-4e97-b958-ce91749d38ef)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/00d243e8-4c08-4b85-a580-b8e8107e6568)
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/f749e87d-2140-422e-8a5e-4baada0eee49)
+
+
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/0e58e24f-3f2c-4de3-a346-f0d9015817b4)
+
 
 # AUTOR
 Nicolás Castro Jaramillo
