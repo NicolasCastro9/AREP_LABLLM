@@ -25,7 +25,7 @@ codigo: rag.py
 Este código carga documentos de texto, divide el texto en fragmentos, genera embeddings para estos fragmentos, indexa los embeddings en Pinecone y luego realiza búsquedas de similitud de documentos en el índice creado.
 Para el archivo conocimientos.txt que usa el codigo la información esta relacionada a ataques DDoS. La biblioteca instalada fue:
 1. langchain-pinecone: extensión específica entre la biblioteca langchain y el servicio Pinecone para la indexación y búsqueda eficiente de vectores de embedding generados a partir de texto
-
+codigo pineconRag.py
 ![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/521b5b31-751b-4eee-81fe-938fec21f3d8)
 
 ![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/af1ec5d4-5597-4446-910d-acc8290bd981)
@@ -42,8 +42,9 @@ Para el archivo conocimientos.txt que usa el codigo la información esta relacio
 
 
 # CUARTO PROGRAMA
-
+el código implementa un sistema de pregunta-respuesta para el código fuente utilizando la técnica de Retriever-Augmented Generation (RAG), que combina recuperación de información y generación de texto para proporcionar respuestas más precisas y relevantes. Este script muestra cómo utilizar las bibliotecas de procesamiento de texto y aprendizaje automático para realizar la carga de documentos, la generación de embeddings, la indexación y búsqueda de información, así como la participación en conversaciones basadas en texto.
 ![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/a787477d-b6e1-4e97-b958-ce91749d38ef)
+
 ![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/00d243e8-4c08-4b85-a580-b8e8107e6568)
 
 
