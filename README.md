@@ -1,4 +1,7 @@
 # AREP_LAB09
+En este laboratorio vamos a explorar los LLM(Large Language Model), el cual es un tipo de modelo de inteligencia artificial diseñado para procesar y generar texto en varios idiomas. Estos modelos están entrenados en grandes cantidades de datos textuales para aprender la estructura, el significado y las reglas gramaticales del lenguaje. Pueden realizar una variedad de tareas relacionadas con el procesamiento del lenguaje natural, como traducción automática, generación de texto, respuesta a preguntas, resumen de texto y más.
+
+# PRIMER PROGRAMA
 
 ![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/d677ec8f-9443-44f6-99d8-89ee6638185e)
 ![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/65f06ebc-7f31-42eb-948f-32f41f94de83)
