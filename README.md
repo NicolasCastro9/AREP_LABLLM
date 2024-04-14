@@ -43,6 +43,7 @@ codigo pineconRag.py
 
 # CUARTO PROGRAMA
 el código implementa un sistema de pregunta-respuesta para el código fuente utilizando la técnica de Retriever-Augmented Generation (RAG), que combina recuperación de información y generación de texto para proporcionar respuestas más precisas y relevantes. Este script muestra cómo utilizar las bibliotecas de procesamiento de texto y aprendizaje automático para realizar la carga de documentos, la generación de embeddings, la indexación y búsqueda de información, así como la participación en conversaciones basadas en texto.
+codigo: codeRag.py
 ![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/a787477d-b6e1-4e97-b958-ce91749d38ef)
 
 ![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/00d243e8-4c08-4b85-a580-b8e8107e6568)
