@@ -10,7 +10,7 @@ from langchain_openai import OpenAIEmbeddings
 import os
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # Clone
 repo_path = "/tmp/test_repo"
