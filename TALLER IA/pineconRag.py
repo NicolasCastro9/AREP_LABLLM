@@ -6,7 +6,7 @@ from pinecone import Pinecone, PodSpec
 import os
 
 os.environ["OPENAI_API_KEY"] = ""
-os.environ["PINECONE_API_KEY"] = "cf851dfc-f67c-461b-8d60-be49665ac9b5"
+os.environ["PINECONE_API_KEY"] = ""
 os.environ["PINECONE_ENV"] = "gcp-starter"
 
 def loadText():
