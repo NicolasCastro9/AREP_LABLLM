@@ -6,9 +6,10 @@ Este código muestra un ejemplo de cómo usar la biblioteca langchain para crear
 1. openai: proporciona acceso a estos modelos a través de una API que permite a los desarrolladores utilizar la capacidad de generación de texto de estos modelos en sus propias aplicaciones.
 2. langchain: Langchain es una biblioteca que proporciona herramientas y utilidades para trabajar con modelos de lenguaje y cadenas de texto en Python
 codigo: promt.py
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/d677ec8f-9443-44f6-99d8-89ee6638185e)
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/5154cc89-b4cd-4ee5-8f35-aa19eef178d7)
 
-![image](https://github.com/NicolasCastro9/AREP_LAB09/assets/98556822/65f06ebc-7f31-42eb-948f-32f41f94de83)
+![image](https://github.com/NicolasCastro9/AREP_LABLLM/assets/98556822/3df444fe-708c-4fe1-950f-be52d672fe87)
+
 
 # SEGUNDO PROGRAMA 
 Este código muestra cómo utilizar la biblioteca langchain para construir un pipeline de procesamiento de lenguaje natural (NLP) que extrae información de un sitio web y luego utiliza un modelo de lenguaje de OpenAI para responder preguntas sobre el contenido extraído. La bibliotecas instladas fueron
